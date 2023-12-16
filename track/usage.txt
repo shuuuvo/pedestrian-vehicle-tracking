@@ -1,0 +1,6 @@
+# For Person :
+python pedestrian.py --conf config/config.json --input videos/example_01.mp4 --output output/output_01.avi
+
+# For Vehicle :
+python vehicle.py --conf config/config.json --input sample_data/cars.mp4 --output output/car.avi
+
