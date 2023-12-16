@@ -28,4 +28,7 @@ python vehicle.py --conf config/config.json --input sample_data/cars.mp4 --outpu
 
 ## Snapshot
 ![ped](https://github.com/shuuuvo/pedestrian-vehicle-tracking/assets/129393771/344fff98-b2e6-4eae-93d5-2fc9836ae660)
+Fig: Pedestrian tracker in action.
+
 ![veh](https://github.com/shuuuvo/pedestrian-vehicle-tracking/assets/129393771/1f22d09b-1969-4f97-b6c9-5661ea7a7ddf)
+Fig: Vehicle tracker in action.
